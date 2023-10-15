@@ -23,7 +23,7 @@
         "dir::../../spef/multicorner/TOP_digital.nom.spef", 
         "dir::../../spef/multicorner/TOP_digital.max.spef"
     ],
-    "BASE_SDC_FILE": "dir::base_user_project_wrapper.sdc",
+    "BASE_SDC_FILE": "dir::../user_proj_example/base_user_proj_example.sdc",
     "IO_SYNC": 0,
     "MAX_TRANSITION_CONSTRAINT": 1.5,
     "RUN_LINTER": 0,
